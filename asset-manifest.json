@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/vivero-commerce-puchetta/static/css/main.3c6b1a8e.css",
+    "main.js": "/vivero-commerce-puchetta/static/js/main.ef501165.js",
+    "static/media/hojas.png": "/vivero-commerce-puchetta/static/media/hojas.4a7f77a3754be1580ab7.png",
+    "static/media/BodoniXT.ttf": "/vivero-commerce-puchetta/static/media/BodoniXT.4c0ecd11d6db356395a4.ttf",
+    "static/media/Bodonitown.ttf": "/vivero-commerce-puchetta/static/media/Bodonitown.254b37caf05fe254ca23.ttf",
+    "static/media/04B_03__.TTF": "/vivero-commerce-puchetta/static/media/04B_03__.ed67d9fa50d78d4e9598.TTF",
+    "index.html": "/vivero-commerce-puchetta/index.html",
+    "main.3c6b1a8e.css.map": "/vivero-commerce-puchetta/static/css/main.3c6b1a8e.css.map",
+    "main.ef501165.js.map": "/vivero-commerce-puchetta/static/js/main.ef501165.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c6b1a8e.css",
+    "static/js/main.ef501165.js"
+  ]
+}
